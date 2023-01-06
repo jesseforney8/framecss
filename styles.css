@@ -1,5 +1,5 @@
 .topnav {
-    background-color: #ba54f5;
+    background-color: rgba(61, 54, 54, 0.8);
     overflow: hidden;
     
     border-radius: 5px;
@@ -201,3 +201,41 @@
     text-align: center;
 
   }
+
+  .default1 {
+    text-align: start;
+    background-color: white ;
+    border:3px solid rgba(61, 54, 54, 0.8);
+    margin: auto;
+    width: 40%;
+    border-radius: 5px;
+    margin-top: 8px;
+
+  }
+  .default1 p {
+color: black;
+
+  }
+
+  select {
+    text-align: center;
+    background-color: lightslategray;
+    border-radius: 10px;
+    cursor: pointer;
+    width:200px;
+    overflow-y: auto;
+    border: 3px solid rgba(61, 54, 54, 0.8);
+    padding-bottom: 0;
+
+  }
+
+  .selectit {
+    text-align: center;
+
+  }
+  option {
+    font-size: 16pt;
+    border-bottom: 1px solid black; 
+    
+  }
+  
