@@ -204,7 +204,7 @@
 
   .default1 {
     text-align: start;
-    background-color: white ;
+    background-color:white;
     border:3px solid rgba(61, 54, 54, 0.8);
     margin: auto;
     width: 40%;
@@ -214,6 +214,7 @@
   }
   .default1 p {
 color: black;
+border-bottom: 2px solid black;
 
   }
 
